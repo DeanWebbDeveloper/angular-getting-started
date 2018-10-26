@@ -1,0 +1,16 @@
+
+						Contents
+
+--------------------------------------------------------
+
+
+3		-	First Things First
+
+	3.5			-	Setting up an Angular Application
+	3.6			-	Installing an Angular Application
+	3.7			-	Running an Angular Application
+
+4		-	Introduction to Components
+
+	4.6			-	Demo: Creating the App Component
+	4.8			-	Demo: Bootstrapping Our App Component
