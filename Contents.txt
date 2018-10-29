@@ -14,3 +14,12 @@
 
 	4.6			-	Demo: Creating the App Component
 	4.8			-	Demo: Bootstrapping Our App Component
+
+5		-	Templates, Interpolation, and Directives
+
+	5.2			-	Building a Template
+	5.3			-	Building a Component
+	5.			-	
+	5.			-
+	5.			-
+	5.			-
