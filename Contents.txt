@@ -19,7 +19,14 @@
 
 	5.2			-	Building a Template
 	5.3			-	Building a Component
-	5.			-	
-	5.			-
-	5.			-
-	5.			-
+	5.4			-	Using a Component as a Directive
+	5.5			-	Binding with Interpolation
+	5.6			-	Adding Logic with Directives: ngIf
+	5.7			-	Adding Logic with Directives: ngFor
+	
+6		-	Data Binding & Pipes
+
+	6.2			-	Property Binding
+	6.3			-	Handling Events with Event Binding
+	6.4			-	Handling Input with Two-way Binding
+	6.5			-	Transforming Data with Pipes
