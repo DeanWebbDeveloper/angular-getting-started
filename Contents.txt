@@ -30,3 +30,19 @@
 	6.3			-	Handling Events with Event Binding
 	6.4			-	Handling Input with Two-way Binding
 	6.5			-	Transforming Data with Pipes
+
+7		-	More on Components
+
+	7.2			-	Defining Interfaces
+	7.3			-	Encapsulating Component Styles
+	7.4			-	Using Lifecycle Hooks
+	7.5			-	Building Custom Pipes
+	7.6			-	Filtering a List
+
+8		-	Building Nested Components
+
+	8.2			-	Building a Nested Component
+	8.3			-	Using a Nested Component
+	8.4			-	Passing Data to a Nested Component Using @Input
+	8.5			-	Passing Data from a Component Using @Output
+	
