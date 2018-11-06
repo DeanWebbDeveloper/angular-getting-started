@@ -45,4 +45,14 @@
 	8.3			-	Using a Nested Component
 	8.4			-	Passing Data to a Nested Component Using @Input
 	8.5			-	Passing Data from a Component Using @Output
-	
+
+9		-	Services and Dependency Injection
+
+	9.3			-	Building a Service
+	9.5			-	Injecting the Service
+
+10		-	Retrieving Data Using HTTP
+
+	10.4		-	Demo: Sending an Http Request
+	10.5		-	Exception Handling
+	10.7		-	Demo: Subscribing to an Observable
