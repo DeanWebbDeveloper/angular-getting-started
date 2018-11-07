@@ -56,3 +56,15 @@
 	10.4		-	Demo: Sending an Http Request
 	10.5		-	Exception Handling
 	10.7		-	Demo: Subscribing to an Observable
+
+11		-	Navigation and Routing Basics
+
+	11.2		-	Generating Code and Handling Undefined
+	11.5		-	Demo: Configuring Routes
+	11.6		-	Tying Routes to Actions
+	11.7		-	Placing the Views
+
+12		-	Navigation and Routing Additional Techniques
+
+	12.3		-	Demo: Passing Parameters to a Route
+	12.6		-	Demo: Protecting Routes with Guards
