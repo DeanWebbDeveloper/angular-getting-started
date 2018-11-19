@@ -67,4 +67,9 @@
 12		-	Navigation and Routing Additional Techniques
 
 	12.3		-	Demo: Passing Parameters to a Route
+	12.4		-	Activating a Route with Code
 	12.6		-	Demo: Protecting Routes with Guards
+	
+13		-	Angular Modules
+
+	13.9		-	Demo: Feature Modules
