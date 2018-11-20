@@ -73,3 +73,12 @@
 13		-	Angular Modules
 
 	13.9		-	Demo: Feature Modules
+	13.10		-	Shared Module
+
+14		-	Building, Testing, and Deploying with the CLI
+
+	14.3		-	ng new
+	14.4		-	ng serve
+	14.5		-	ng generate
+	14.6		-	ng test
+	14.7		-	ng build
