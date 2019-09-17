@@ -82,3 +82,7 @@
 * 14.5 - ng generate
 * 14.6 - ng test
 * 14.7 - ng build
+
+### Resources
+
+Contains .zip file of the course Resources
